@@ -1,0 +1,12 @@
+$color--w:#eee;
+$color--b:#222;
+
+body{
+    background-color: $color--b;
+    display: flex;
+    h1{
+        color: $color--w;
+        display: flex;
+        font-size: 40px;
+    }
+}
